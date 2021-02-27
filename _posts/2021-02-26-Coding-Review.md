@@ -18,4 +18,4 @@ The coding process took only ten minutes once the video aid concluded. In the en
 
 The [scans](https://schlesinger.radcliffe.harvard.edu/onlinecollections/gilman/item/13726678/20) were provided by Radcliffe Institute for Advanced Study Harvard University.  
 
-![Scan page 20](file:///C:/Users/rudeb/Downloads/scan%20page%2020.jfif%20(1).crdownload)
+![Scan page 20](https://raw.githubusercontent.com/DallasAustin/The-Dallas-Chronicles-/main/images/note.jpg)
