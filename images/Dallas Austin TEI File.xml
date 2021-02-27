@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_enrich.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_enrich.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"The Yellow Wall-paper"</title>
+            <author>Charlotte Perkins Stetson</author>  
+            <editor>Dallas Austin</editor> 
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The source text can be found here: http://schlesinger.radcliffe.harvard.edu/onlinecollections/gilman/</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <pb n="20"/>
+         <p>A lovely country too, full of great ems and velvet meadows.</p>
+         <p>This wall paper has a kind of subpattern in a different shade, a particularly irritating one, for you can only see it in certain lights, and not clearly then. <space/>But in the places where it isn’t faded, and when the sun is just so, I can see a strange provoking formless sort of figure, that seems to skulk about behind that silly and conspicuous front design.</p>
+         <p>There’s sister on the stairs!</p>
+         <p>+    +    +    +</p>
+         <p>Well, the Fourth of July is over! The people are all gone and I am tired out.</p>
+         <p>John thought it might do <pb n="21"/> me good to see a little company, so we just had Mother and Nellie and the children down for a week.</p>
+         <p>Of course I didn’t do a <hi rend="underline">thing</hi>&#8212;Jennie sees to everything now. But it tired me all the same. John says if I don’t pick up faster he shall send me to Weir Mitchell in the Fall.</p>
+         <p>But I don’t want to go there at all. I had a friend who was in his hands once, and she says he is just like John and my brother only more so!</p>
+         <p>Besides it is such an undertaking to go so far. I don’t feel as if it<del rend="strikethrough"> was </del>were worth while to turn my hand over for anything, and I’m getting <choice><corr>dreadfully</corr><sic>dreadfuly</sic></choice> fretful and querulous.</p>
+         <pb n="22"/>
+         <p> I cry at nothing and cry most of the time. Of course I don’t when John is here, or anybody else, but when I am alone.</p>      
+         <p>And I am alone a good deal just now. John is kept in town very often by serious cases, and Jennie is good and lets me alone when I want her to.<space/>So I walk a little in the garden or down that lovely lane, sit on the porch under the roses, and lie down up here a good deal.</p>    
+         <p>I’m getting really fond of the room in spite of the wall-paper.</p>           
+         <p>Perhaps because of the wall-paper! It dwells in my mind so! I lie here on this great immovable bed (it’s<del rend="strikethrough">niailed</del>nailed down, I believe!) and follow <pb n="23"/> that pattern about by the hour.</p>
+         <p>It is as good as gymnastics, I assure you. I start, we’ll say, at the bottom, down in the corner over there where it hasn’t been touched; and I determine, for the thousandth time, that I <hi rend="underline">will</hi>follow that pointless pattern to some sort of a conclusion.</p>               
+        <p>I know a little of the principles of design, <del rend="strikethrough">myself</del>, and I know this thing was not arranged on any laws of radiation, or alternation, or  <choice><corr>repetition</corr><sic>repitition</sic></choice>, or symmetry, or anything else that I even heard of. It is repeated of course, by the breadth, but not otherwise.</p>  
+       <p>Looked at in one way each</p>           
+      </body>
+  </text>
+</TEI>
