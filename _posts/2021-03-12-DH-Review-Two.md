@@ -4,12 +4,11 @@
  
 ## Project Leaders: [Janelle Jenstad](https://mapoflondon.uvic.ca/JENS1.htm), [Martin D. Holmes](https://mapoflondon.uvic.ca/HOLM3.htm), [Mark Kaethler](https://mapoflondon.uvic.ca/KAET1.htm)  
   
-## Reviewer: Dallas Austin        
- 
+## Reviewer: Dallas Austin    
 
-**Map of London Project Overview**  
-  
-![Open Banner](https://raw.githubusercontent.com/DallasAustin/The-Dallas-Chronicles-/main/images/Agas%20open.png)  
+ ![Open Banner](https://raw.githubusercontent.com/DallasAustin/The-Dallas-Chronicles-/main/images/Agas%20open.png)  
+
+**Map of London Project Overview**    
   
 If you visited my first project review, you would find a project featuring early London cartography. Well, this project is not too different in subject matter. The _Map of Early Modern London_ digital humanities project or ***MoEML***, is an archive of written depictions of 1500-1600’s London. Along with the written works, is an interactive map from a birds-eye-view of the city. The project provides the user with a political and religious depiction of late the renaissance. 
 
