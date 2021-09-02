@@ -1,8 +1,8 @@
 # Opinions on Opinions
 
 ### Summary  
-   **I liked my work in the in-classroom activity, I will use it here.**  
-![North](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/North_Pointer2.png)
+
+![North](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/North_Pointer2.png)(_I liked my work in the in-classroom activity, I will use it here._)  
 **For North**, a writing center is a place where a conversation about how to write what an individual is trying to say takes precedence. It supplements internalized complacency or deficiencies with external expression to better understand what a particular idea is by confronting its essence with external factors. It does not act as a supplement for the mechanical understanding of writing nor is it a filter for mechanical flaws already inscribed. It is not an editorial abode for those who need proofing, 25 error rule does not apply. 
 
 Instead, he suggests that availability and pliability are the most important qualities a writing center instructor should possess. As for raw availability, North encourages groups to offer more hours while encompassing a larger staff. The increased access to an instructor encourages a larger group of people to participate when confronted by a fully fleshed out system. In terms of pliability, moving away from a standardized understanding of a writing rubric will allow instructors to provide more individualized communication for clients. 
