@@ -1,8 +1,10 @@
 # Opinions on Opinions
+###### This Blog will be a brief evaluation of two essays focused on the question: what is a writing center? I have compiled a few key points from my reading of _The Idea of a Writing Center_ by Stephen M. North, and _Collaboration, Control, and the Idea of a Writing Center_ by Andrea Lunsford. My assessment will focus on pure interpretation as opposed to direct regurgitation of the content. 
+
 
 ### Summary  
 
-![North](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/North_Pointer2.png)(_I liked my work in the in-classroom activity, I will use it here._)  
+ ###### ![North](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/North_Pointer2.png)(_I liked my work in the in-classroom activity, I will use it here._)  
 **For North**, a writing center is a place where a conversation about how to write what an individual is trying to say takes precedence. It supplements internalized complacency or deficiencies with external expression to better understand what a particular idea is by confronting its essence with external factors. It does not act as a supplement for the mechanical understanding of writing nor is it a filter for mechanical flaws already inscribed. It is not an editorial abode for those who need proofing, 25 error rule does not apply. 
 
 Instead, he suggests that availability and pliability are the most important qualities a writing center instructor should possess. As for raw availability, North encourages groups to offer more hours while encompassing a larger staff. The increased access to an instructor encourages a larger group of people to participate when confronted by a fully fleshed out system. In terms of pliability, moving away from a standardized understanding of a writing rubric will allow instructors to provide more individualized communication for clients. 
@@ -18,8 +20,8 @@ The Lunsford essay was much more accessible for readers who are not looking for 
 Because more people can write, more people will read, so less academic centered pieces will get more traffic from novice. The narrative format and optimistic tone made for a comfortable read.  
 With North, the rant he puts forth was much more appealing to me for obvious reasons. He clearly lays out the problems, the progress, and the solutions all while keeping pointy-headed intellectuals satisfied. His work is a product of his time, and it really shows. I will say that academic papers like his are structured in a way that is more skimable. I did read the entire paper, but it won’t hold the serotonin hungry minds of most casual readers like Lunsford’s work could. 
 
-In the end, they make similar points but approach it in different ways.    
-
+In the end, they make similar points but approach it in different ways.      
+![Add](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/Add1.png)
 
 ### Question
 What part of North’s work do you disagree with? I know his tone is under question but wouldn’t suppressing his passion and execution be against the embrace of narrative voice?
