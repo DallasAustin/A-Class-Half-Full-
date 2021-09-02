@@ -15,11 +15,10 @@ Not unlike North, Lunsford encourages more effort from the instructors to be emo
 
 ### Comment
 The Lunsford essay was much more accessible for readers who are not looking for academic writing, this shows a lot about the progression that writers have gone through.
-Because more people can write, more people will read, so less academic centered pieces will get more traffic from novice. The narrative format and optimistic tone made for a comfortable read.
+Because more people can write, more people will read, so less academic centered pieces will get more traffic from novice. The narrative format and optimistic tone made for a comfortable read.  
 With North, the rant he puts forth was much more appealing to me for obvious reasons. He clearly lays out the problems, the progress, and the solutions all while keeping pointy-headed intellectuals satisfied. His work is a product of his time, and it really shows. I will say that academic papers like his are structured in a way that is more skimable. I did read the entire paper, but it won’t hold the serotonin hungry minds of most casual readers like Lunsford’s work could. 
 
 In the end, they make similar points but approach it in different ways.    
-
 
 
 ### Question
