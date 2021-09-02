@@ -29,4 +29,4 @@ With Lunsford, does she correct any mistakes that North had? Does her change in 
 
 ![Meme](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/meme.png)
 
-Link to reference video [https://www.youtube.com/watch?v=dQw4w9WgXcQ] 
+[Link to references](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
