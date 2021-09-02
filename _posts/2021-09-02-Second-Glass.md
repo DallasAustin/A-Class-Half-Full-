@@ -4,7 +4,7 @@
 
 ### Summary  
 
- ###### (_I liked my work in the in-classroom activity, I will use it here._)  
+###### (_I liked my work in the in-classroom activity, I will use it here._)  
  
 ![North](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/North_Pointer2.png) **For North**, a writing center is a place where a conversation about how to write what an individual is trying to say takes precedence. It supplements internalized complacency or deficiencies with external expression to better understand what a particular idea is by confronting its essence with external factors. It does not act as a supplement for the mechanical understanding of writing nor is it a filter for mechanical flaws already inscribed. It is not an editorial abode for those who need proofing, 25 error rule does not apply. 
 
