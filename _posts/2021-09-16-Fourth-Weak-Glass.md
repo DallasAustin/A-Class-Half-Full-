@@ -1,10 +1,8 @@
 # Business, Tutoring, and Research in the Writing Center
- 
+
+## Information and imiges from: _Bedford Guide for Writing Tutors 6th edition Chapters 1,6,8_   
+![comics](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/comic.png)     
   
-  
-##### Information and imiges from: _Bedford Guide for Writing Tutors 6th edition Chapters 1,6,8_
-  
-![comics](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/comic.png)   
   
 ### Summary  
 Although we try to refrain from a _business model of learning_ in the writing center, it is still a service and must exude a level of presentation and conduct. It is crucial that a consultant be knowledgeable in the programs the center offers as well as the subject of writing. If a student is in need of further understanding of a subject brought up during a session, it is imperative that the consultant be wary of not only how to find the information but is able to aid the student in being able to find it for themselves. The center has both asynchronous as well as in-person consultations; understanding the advantages and disadvantages will help aid any participants in creating the most productive and comfortable way of conducting a session.      
