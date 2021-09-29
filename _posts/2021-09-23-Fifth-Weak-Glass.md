@@ -1,6 +1,6 @@
 # The Writing Process, Tutoring, and Planning in the Writing Center
 
-## Information and imiges from: _Bedford Guide for Writing Tutors 6th edition Chapters 2,3,Bruffee_   
+## Information and images from: _Bedford Guide for Writing Tutors 6th edition Chapters 2,3,Bruffee_   
 ![Bruffee](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/bruffee.png)     
   
 ### Summary  
