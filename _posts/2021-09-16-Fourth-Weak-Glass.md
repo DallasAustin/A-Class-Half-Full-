@@ -1,6 +1,6 @@
 # Business, Tutoring, and Research in the Writing Center
 
-## Information and imiges from: _Bedford Guide for Writing Tutors 6th edition Chapters 1,6,8_   
+## Information and images from: _Bedford Guide for Writing Tutors 6th edition Chapters 1,6,8_   
 ![comics](https://raw.githubusercontent.com/DallasAustin/A-Class-Half-Full-/main/images/comic.png)     
   
   
