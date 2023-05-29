@@ -1,25 +1,5 @@
-#
-# This file contains configuration flags to customize your site
-#
-# Name of your site (The Summer Writers Club)
-title: Summer Writers Club
-# Short bio or description (I built this site to develop creative writing skill early in the student's career.)
-description: A blog that is about giving young writers an opportunity to explore a no stakes environment to grow. Blog.
-
-#
-# !! DON'T EDIT BELOW THIS MESSAGE
-#
-# Use the following plug-ins
-plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-
+title: Leap Day theme
+description: Leap Day is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-leap-day
