@@ -1,10 +1,10 @@
 #
 # This file contains configuration flags to customize your site
 #
-# Name of your site (The Mind of a Jack of All Trades)
-title: A Class Half Full 
-# Short bio or description (How does somoene who wants to learn every useless talent see the world)
-description: A blog that is about a student at CNU, this is an academic blog, enjoy my offbeat satire blog. Blog.
+# Name of your site (The Summer Writers Club)
+title: Summer Writers Club
+# Short bio or description (I built this site to develop creative writing skill early in the student's career.)
+description: A blog that is about giving young writers an opportunity to explore a no stakes environment to grow. Blog.
 
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
@@ -22,4 +22,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-leap-day
